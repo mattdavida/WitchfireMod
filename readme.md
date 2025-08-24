@@ -16,13 +16,13 @@
 
 ## 📋 Requirements
 
-- **[UE4SS](https://www.nexusmods.com/site/mods/785)** - Unreal Engine 4 Scripting System
+- **[UE4SS](https://github.com/UE4SS-RE/RE-UE4SS/releases)** - Unreal Engine 4 Scripting System
 
 ## 🔧 Installation
 
 ### Step 1: Install UE4SS
 
-1. Download UE4SS from [Nexus Mods](https://www.nexusmods.com/site/mods/785)
+1. Download UE4SS from [github](https://github.com/UE4SS-RE/RE-UE4SS/releases)
 2. Extract **ALL** UE4SS files to this **EXACT** folder:
 
    ```
