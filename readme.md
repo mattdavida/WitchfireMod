@@ -125,6 +125,8 @@ fov 90                     # Reset to normal
 
 The mod dynamically supports **all cheat manager functions**. Some powerful examples:
 
+> ⚠️ **Note**: Advanced functions are auto-discovered but not all tested. The hotkey functions (F1-F7) are thoroughly tested and reliable.
+
 ```bash
 # Item & Loot Management
 cheat AddDE 1000              # Add Divine Essence
@@ -169,7 +171,9 @@ Perfect for building your own Witchfire mods or extending this one!
 - ✅ **Regular updates** - Automatically supports new game functions
 - ✅ **Performance optimized** - Minimal impact on game performance
 - ✅ **Developer-friendly** - Includes complete Lua type definitions for all game classes
+- ✅ **Tested & reliable** - Hotkey functions (F1-F7) are thoroughly tested and stable
 - ⚠️ **Single player only** - Not designed for multiplayer use
+- ⚠️ **Advanced functions** - Some console commands are auto-discovered and may be untested
 
 ## 🤝 Contributing
 
